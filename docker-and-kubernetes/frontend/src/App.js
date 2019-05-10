@@ -10,6 +10,7 @@ function App() {
         <p>
             Hi there! MerJQ! よろしくお<ruby>願い<rt>ねがい</rt></ruby>します
         </p>
+
         <a
           className="App-link"
           href="https://reactjs.org"

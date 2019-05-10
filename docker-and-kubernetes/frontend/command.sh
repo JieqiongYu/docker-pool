@@ -22,3 +22,6 @@ docker run -p 3000:3000 -v $(pwd):/app jieqiong/react-docker-app
 # 71. Shorthand with Docker Compose 
 # docker-compose.yml
 # 72. Overriding Dockerfile Selection
+
+# 76. Docker Compose for Running Tests
+docker-compose up --build
