@@ -25,3 +25,7 @@ docker run -p 3000:3000 -v $(pwd):/app jieqiong/react-docker-app
 
 # 76. Docker Compose for Running Tests
 docker-compose up --build
+
+## 80. Implementing Multi-Step Builds
+build -t jieqiong/multi-steps-front .
+docker run -p 8080:80 jieqiong/multi-steps-front 
