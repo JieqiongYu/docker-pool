@@ -24,3 +24,5 @@ The main content related code is provided here:
 
 * Continuous Integration and Deployment with AWS
     * [docker-react](https://github.com/Jieqiong-Mer/docker-react)
+* Building a Multi-Container Application
+    * [docker-complex](https://github.com/Jieqiong-Mer/docker-complex)
