@@ -1,6 +1,6 @@
 # Onwards to Kubernetes
 
-## 164. Connecting to Running Containres 
+## 164. Connecting to Running Containres
 
 ```bash
 ## cd /path/to/simplek8s

@@ -27,5 +27,12 @@ The main content related code is provided here:
 
 * Building a Multi-Container Application
     * [docker-complex](https://github.com/Jieqiong-Mer/docker-complex)
+
 * Onwards to Kubernetes!
     * [simplek8s](https://github.com/JieqiongYu/docker-pool/tree/master/docker-and-kubernetes/simplek8s)
+
+* Maintaining Sets of Containers with Deployments
+    * [simplek8s](https://github.com/JieqiongYu/docker-pool/tree/master/docker-and-kubernetes/simplek8s)
+
+* A Multi-Container App with Kubernetes
+    * [Kubernetes Complex](https://github.com/Jieqiong-Mer/kubernetes-complex)

@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Creating and Running a Container from an image
 docker run hello-world
 

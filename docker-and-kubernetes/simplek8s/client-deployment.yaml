@@ -14,6 +14,6 @@ spec:
     spec: 
       containers: 
         - name: client
-          image: jieqiong/multi-client:v1
+          image: jieqiong/multi-client
           ports: 
             - containerPort: 3000

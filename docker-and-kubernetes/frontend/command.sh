@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Install npm create-react-app
 npm install -g create-react-app
 create-react-app frontend

@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # 50. Assembling a Dockerfile
 docker build -t jieqiong/node-visits .
 docker run jieqiong/node-visits
