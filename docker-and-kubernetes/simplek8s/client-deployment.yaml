@@ -4,16 +4,16 @@ metadata:
   name: client-deployment
 spec:
   replicas: 1
-  selector: 
+  selector:
     matchLabels:
       component: web
-  template: 
+  template:
     metadata:
       labels:
         component: web
-    spec: 
-      containers: 
+    spec:
+      containers:
         - name: client
           image: jieqiong/multi-client
-          ports: 
+          ports:
             - containerPort: 3000
